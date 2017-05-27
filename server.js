@@ -327,4 +327,4 @@ setInterval(function(){
             socket.emit('lose');
         }
     }
-},1000/60);
+},1000/40);
